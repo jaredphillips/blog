@@ -1,7 +1,7 @@
 ## Markdown Better 
 ##### January 16, 2014
 
-[<-- back](https://www.jaredphillips.io/#blog)
+[<-- back](http://www.jaredphillips.io/#blog)
 
 
 When I decided to blog again, I wanted decided that I wanted sharpen a new skill. I had used Markdown before for a couple of rails projects but I felt like I could become better at it. The [Daring Fireball](http://daringfireball.net/projects/markdown/syntax) article wasn't much help surprisingly, considering that John Gruber (and Arron Swartz) wrote the dang thing.
@@ -16,4 +16,4 @@ Thirdly, I really love using [Sublime](http://www.sublimetext.com/3) for writing
 
 So there it is, the reason why I'm writing this blog using markdown and git. 
 
-[<-- back](https://www.jaredphillips.io/#blog)
+[<-- back](http://www.jaredphillips.io/#blog)
